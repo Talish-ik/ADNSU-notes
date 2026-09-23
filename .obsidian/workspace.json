@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "7d25655a5fad925a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6beb7e534f0c43f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f355fce8aae2571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 1/Linear algebra/Lectures/Lecture 1, pt 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1, pt 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c047c01206c6c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "d340f41545dc31c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e3e7ae6a25abdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d2ff4f1aaaa2439",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fde632b884d66090",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "a8304dbd364ceb33",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fb835dbacafce67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f3d4754462ae61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem 1/Physics/Labs/Sep 15. First lab.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "670629376f7a09d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem 1/Physics/Labs/Sep 15. First lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ab3ba23aed51c3ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a84b0b02279fe0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "da96938d84ebcfa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem 1/Physics/Labs/Sep 15. First lab.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8f355fce8aae2571",
+  "lastOpenFiles": [
+    "Sem 1/Linear algebra/Lectures/Lecture 1, pt 1.md",
+    "Sem 1/Physics/Labs/Sep 15. First lab.md",
+    "Sem 1/Physics/Lectures/Lecture 1. Kinematics.md",
+    "Sem 1/Linear algebra/Lectures/Lecture 1, pt 2.md",
+    "Untitled.md",
+    "Sem 1/Mechatronics and robotics",
+    "Sem 1/Linear algebra/Lectures",
+    "Sem 1/Linear algebra",
+    "Sem 1/Physics/Lectures/attachments/Pasted image 20260917183147.png",
+    "Sem 1/Physics/Lectures/attachments",
+    "Images/Pasted image 20260917162349.png",
+    "Sem 1/Physics/Labs/attachments/Pasted image 20260917183126.png",
+    "Images/Pasted image 20260915201104.png",
+    "Sem 1/Physics/Labs/attachments/Pasted image 20260917183045.png",
+    "Images/Pasted image 20260915185420.png",
+    "Sem 1/Physics/Labs/attachments/Pasted image 20260917182544.png",
+    "Images/Pasted image 20260915185432.png",
+    "Sem 1/Physics/Labs/attachments",
+    "Images/Pasted image 20260916114054.png",
+    "Images/Pasted image 20260916113953.png",
+    "Sem 1/Physics/General.md",
+    "Untitled.base",
+    "Sem 1/Physics/lu1904911gpo.tmp",
+    "Images",
+    "Sem 1/Physics/Laboratory Physics.docx",
+    "Sem 1/Physics/Seminars",
+    "Sem 1/Untitled.md",
+    "Welcome.md"
+  ]
+}
